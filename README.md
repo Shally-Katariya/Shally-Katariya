@@ -12,11 +12,45 @@
 ---
 
 ### 🛠️ Tech Stack  
-- **Programming:** C, C++, Python  
-- **Machine Learning:** Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn  
-- **Big Data:** Hadoop, Hive, Spark  
-- **Development:** JavaScript, React, Node.js, Firebase, SQL  
-- **Cybersecurity:** Network Security, Cryptography (Exploring More!)
+
+#### 🔹 Programming Languages  
+<p align="left">
+  <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+</p>
+
+#### 🔹 Machine Learning & Data Science  
+<p align="left">
+  <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/-Matplotlib-8B8B8B?style=flat&logo=matplotlib&logoColor=white">
+  <img src="https://img.shields.io/badge/-Seaborn-009688?style=flat">
+</p>
+
+#### 🔹 Big Data Technologies  
+<p align="left">
+  <img src="https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=white">
+  <img src="https://img.shields.io/badge/-Hive-FDEE21?style=flat&logo=apache-hive&logoColor=black">
+  <img src="https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white">
+</p>
+
+#### 🔹 Web & Backend Development  
+<p align="left">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+</p>
+
+#### 🔹 Cybersecurity & Other Skills  
+<p align="left">
+  <img src="https://img.shields.io/badge/-Network Security-FF6F00?style=flat">
+  <img src="https://img.shields.io/badge/-Cryptography-6A5ACD?style=flat">
+  <img src="https://img.shields.io/badge/-Cloud Computing-4285F4?style=flat&logo=google-cloud&logoColor=white">
+</p>
 
 ---
 
