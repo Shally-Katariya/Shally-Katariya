@@ -104,8 +104,8 @@
 ---
 
 ### 🎯 Goals for 2025  
-✅ Contributing in open-source project
-✅ Deploy an **AI-powered pharmacy web app**  
+✅ Contributing in open-source project<br>
+✅ Deploy an **AI-powered pharmacy web app** 
 ✅ More contribution in Machine Learning.
 ✅ Intrusion Detection System (IDS) Database
 
