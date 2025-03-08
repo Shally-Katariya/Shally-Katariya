@@ -3,7 +3,7 @@
 <p align="center">
   🎓 <b>B.Tech CSE (Cybersecurity)</b> | 🏫 SRM IST, Delhi NCR<br>
   💻 Passionate about <b>Cybersecurity</b> & <b>Machine Learning</b> <br>
-  🚀 Currently working on <b>Optimized Medical Equipment Allocation</b> 
+  🚀 Currently working on <b>Optimized Medical Equipment Allocation</b> <br>
                         & <b>California House Pricing Prediction</b> <br>
   📚 Exploring <b>Big Data, AI & Cybersecurity</b> <br>
   🏆 Fun fact: I started  mainly my tech journey in my B.Tech first year!  
