@@ -1,10 +1,12 @@
 <h1 align="center">Hi there! 👋 I'm Shally Katariya</h1>
 
-<p align="center">
-  🚀 About Me  
-  🎓 <b>B.Tech CSE Speciaization in Cybersecurity</b> | 🏫 SRM University<br>
-  💻 <b>Passionate about Cybersecurity, Artificial intelligence</b> <br>
-  💡 Currently working on <b>Optimized Medical Equipment Allocation</b> & <b>California Housing Price Prediction</b> <br>
+<p align="left">
+  ### 🚀 About Me  
+  🎓 <b>B.Tech CSE Speciaization in Cybersecurity</b> 
+  🏫 SRM IST Delhi NCR<br>
+  💻 <b>Passionate about Cybersecurity, AI & Web Development</b> <br>
+  💡 Currently working on <b>Optimized Medical Equipment Allocation</b> 
+      & <b>California Housing Price Prediction</b> <br>
   📚 Learning <b>Firebase Firestore</b> & <b>Google Maps API Integration</b> <br>
   ⚡ Fun fact: I love outdoor sports and travelling 
 </p>
