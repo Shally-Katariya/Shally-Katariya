@@ -1,46 +1,67 @@
-<h1 align="center">Hi there! 👋 I'm Shally Katariya</h1>
+<h1 align="center">Hey there! 👋 I'm Shally Katariya</h1>
 
-<p align="left">
-  ### 🚀 About Me  
-  🎓 <b>B.Tech CSE Speciaization in Cybersecurity</b> 
-  🏫 SRM IST Delhi NCR<br>
-  💻 <b>Passionate about Cybersecurity, AI & Web Development</b> <br>
-  💡 Currently working on <b>Optimized Medical Equipment Allocation</b> 
-      & <b>California Housing Price Prediction</b> <br>
-  📚 Learning <b>Firebase Firestore</b> & <b>Google Maps API Integration</b> <br>
-  ⚡ Fun fact: I love outdoor sports and travelling 
+<p align="center">
+  🎓 <b>B.Tech CSE (Cybersecurity)</b> | 🏫 SRM IST, Delhi NCR<br>
+  💻 Passionate about <b>Cybersecurity</b> & <b>Machine Learning</b> <br>
+  🚀 Currently working on <b>Optimized Medical Equipment Allocation</b> & <b>California House Pricing Prediction</b> <br>
+  📚 Exploring <b>Big Data, AI & Web Development</b> <br>
+  🏆 Fun fact: I started my tech journey in my B.Tech first year!  
 </p>
 
-
+---
 
 ### 🛠️ Tech Stack  
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
+- **Programming:** C, C++, Python  
+- **Machine Learning:** Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn  
+- **Big Data:** Hadoop, Hive, Spark  
+- **Development:** JavaScript, React, Node.js, Firebase, SQL  
+- **Cybersecurity:** Network Security, Cryptography (Exploring More!)
 
 ---
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shallykatariya&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shally-Katariya&show_icons=true&theme=radical" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shallykatariya&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shally-Katariya&theme=radical" alt="GitHub Streak">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shallykatariya&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shally-Katariya&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
 
-### 🌎 Connect with Me  
+### 🌍 Let's Connect  
 <p align="center">
   <a href="https://www.linkedin.com/in/shally-katariya-158323297/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
   <a href="mailto:shallykatariya10@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail"></a>
   <a href="https://github.com/Shally-Katariya"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"></a>
-  
 </p>
+
+---
+
+### ✨ Fun Outside Tech  
+🚴‍♀️ I love **outdoor activities** like **sports** and **traveling** ✈️!  
+💡 Always eager to learn and explore new technologies 🌍  
+
+---
+
+### 🚀 Projects  
+#### 🔹 **Optimized Medical Equipment Allocation**  
+- Using **MST Algorithm** for optimal resource allocation  
+- **Tech Stack:** SQL, Node.js, Bootstrap, Firebase  
+
+#### 🔹 **California House Pricing Prediction**  
+- Predicting house prices using **ML models** with <2% error  
+- **Tech Stack:** Python, Scikit-Learn, Pandas, Matplotlib  
+
+---
+
+### 🎯 Goals for 2025  
+✅ Contributing in open-source project
+✅ Deploy an **AI-powered pharmacy web app**  
+✅ Master **Google Maps API & Cloud Firestore**  
+
+---
+
+🔥 If you like my work, feel free to **star ⭐ my projects** and **connect with me**! 🚀  
 
