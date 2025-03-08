@@ -3,7 +3,7 @@
 <p align="left">
   🎓 <b>B.Tech CSE (Cybersecurity)</b> | 🏫 SRM IST, Delhi NCR<br>
   💻 Passionate about <b>Cybersecurity</b> & <b>Machine Learning</b> <br>
-  🚀 Currently working on <b>Optimized Medical Equipment Allocation</b> <br>
+  🚀 Currently working on <b>Optimized Medical Equipment Allocation</b> 
                         & <b>California House Pricing Prediction</b> <br>
   📚 Exploring <b>Big Data, AI & Cybersecurity</b> <br>
   🏆 Fun fact: I started  mainly my tech journey in my B.Tech first year!  
@@ -80,15 +80,27 @@
 
 ---
 
-### 🚀 Projects  
-#### 🔹 **Optimized Medical Equipment Allocation**  
-- Using **MST Algorithm** for optimal resource allocation  
-- **Tech Stack:** SQL, Node.js, Bootstrap, Firebase  
+## 🚀 Projects  
 
-#### 🔹 **California House Pricing Prediction**  
-- Predicting house prices using **ML models** with <2% error  
-- **Tech Stack:** Python, Scikit-Learn, Pandas, Matplotlib  
+### 🔹 Optimized Medical Equipment Allocation  
+📌 **Description:** Using **Minimum Spanning Tree (MST) Algorithm** for efficient resource allocation of medical equipment.  
+🛠️ **Tech Stack:**  
+<p align="left">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black">
+</p>
 
+### 🔹 California House Pricing Prediction  
+📌 **Description:** Built an **ML model** to predict California house prices with <2% error using advanced **regression techniques**.  
+🛠️ **Tech Stack:**  
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/-Matplotlib-8B8B8B?style=flat&logo=matplotlib&logoColor=white">
+</p>
 ---
 
 ### 🎯 Goals for 2025  
