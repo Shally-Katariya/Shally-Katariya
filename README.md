@@ -3,9 +3,10 @@
 <p align="center">
   🎓 <b>B.Tech CSE (Cybersecurity)</b> | 🏫 SRM IST, Delhi NCR<br>
   💻 Passionate about <b>Cybersecurity</b> & <b>Machine Learning</b> <br>
-  🚀 Currently working on <b>Optimized Medical Equipment Allocation</b> & <b>California House Pricing Prediction</b> <br>
-  📚 Exploring <b>Big Data, AI & Web Development</b> <br>
-  🏆 Fun fact: I started my tech journey in my B.Tech first year!  
+  🚀 Currently working on <b>Optimized Medical Equipment Allocation</b> 
+                        & <b>California House Pricing Prediction</b> <br>
+  📚 Exploring <b>Big Data, AI & Cybersecurity</b> <br>
+  🏆 Fun fact: I started  mainly my tech journey in my B.Tech first year!  
 </p>
 
 ---
@@ -59,7 +60,8 @@
 ### 🎯 Goals for 2025  
 ✅ Contributing in open-source project
 ✅ Deploy an **AI-powered pharmacy web app**  
-✅ Master **Google Maps API & Cloud Firestore**  
+✅ More contribution in Machine Learning.
+✅ Intrusion Detection System (IDS) Database
 
 ---
 
