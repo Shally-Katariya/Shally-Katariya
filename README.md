@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Shally Katariya</h1>
 
-<p align="center">
+<p align="left">
   🎓 <b>B.Tech CSE (Cybersecurity)</b> | 🏫 SRM IST, Delhi NCR<br>
   💻 Passionate about <b>Cybersecurity</b> & <b>Machine Learning</b> <br>
   🚀 Currently working on <b>Optimized Medical Equipment Allocation</b> <br>
