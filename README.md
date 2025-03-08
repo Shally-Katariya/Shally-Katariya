@@ -1,21 +1,15 @@
 <h1 align="center">Hi there! 👋 I'm Shally Katariya</h1>
 
 <p align="center">
-  🎓 <b>B.Tech CSE (Cybersecurity)</b> | 🏫 SRM University<br>
-  💻 <b>Passionate about Cybersecurity, AI & Web Development</b> <br>
-  🚀 Currently working on <b>Medical Equipment Allocation</b> & <b>Donation Resource Platform</b> <br>
+  🚀 About Me  
+  🎓 <b>B.Tech CSE Speciaization in Cybersecurity</b> | 🏫 SRM University<br>
+  💻 <b>Passionate about Cybersecurity, Artificial intelligence</b> <br>
+  💡 Currently working on <b>Optimized Medical Equipment Allocation</b> & <b>California Housing Price Prediction</b> <br>
   📚 Learning <b>Firebase Firestore</b> & <b>Google Maps API Integration</b> <br>
+  ⚡ Fun fact: I love outdoor sports and travelling 
 </p>
 
----
 
-### 🚀 About Me  
-- 🔭 I’m currently working on **AI-powered projects**  
-- 🌱 I’m learning **Cloud Integration & Optimized Algorithms**  
-- 💡 Exploring **Big Data & Machine Learning**  
-- ⚡ Fun fact: I love **problem-solving & hacking CTF challenges**  
-
----
 
 ### 🛠️ Tech Stack  
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
@@ -42,9 +36,9 @@
 
 ### 🌎 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/SHALLY KATARIYA"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:your-shallykatariya10@gmail.com.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail"></a>
-  <a href="https://github.com/shallykatariya"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"></a>
+  <a href="https://www.linkedin.com/in/shally-katariya-158323297/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="mailto:shallykatariya10@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail"></a>
+  <a href="https://github.com/Shally-Katariya"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"></a>
   
 </p>
 
