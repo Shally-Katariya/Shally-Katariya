@@ -9,7 +9,7 @@
 🎓 <b>B.Tech CSE (Cybersecurity)</b> • SRM IST, Delhi NCR <br>
 💼 Aspiring <b>Software Engineer (SWE)</b> • Open-Source Contributor <br>
 🛠️ <b>C++ & Python Developer</b> • Preparing for <b>GSoC 2026</b> <br>
-🟣 <b>Apache Airflow</b> (Primary) • 🟡 <b>Postman</b> (Backup)
+🟣 <b>Apache Airflow</b>  • 🟡 <b>Postman</b> 
 </p>
 
 ---
